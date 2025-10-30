@@ -1,3 +1,4 @@
+#!/bin/bash
 cd lab0
 chmod u=rw,g=,o= beedrill5
 chmod u=rwx,g=wx,o=wx kricketot0

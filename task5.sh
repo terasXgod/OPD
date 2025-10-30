@@ -1,3 +1,6 @@
+#!/bin/bash
+
+cd lab0
 rm -f beedrill5
 rm -f lab0/slaking6/marshtomp
 

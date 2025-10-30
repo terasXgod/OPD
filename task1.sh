@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir lab0
 cd lab0
 echo -e "Способности  Fury Attack Focus Energy Twineedle Rage\nPursuit Toxic Spikes Pin Missible Agility Assurance Poison Jab\nEndeavor" > beedrill5

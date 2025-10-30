@@ -1,5 +1,6 @@
+#!/bin/bash
 cd lab0
-chmod -R 777 .
+chmod u+rwx -R .
 cp -r slaking6 tmp
 mv tmp/* slaking6/victreebel/hippopotas
 ln beedrill5 slaking6/chandelurebeedrill
